@@ -1,5 +1,5 @@
 # Flutter Forum
-Crossplatform Flutter + Firestore app allowing people to share opinions on whatever question and seek answers
+Crossplatform Flutter + Firebase (Auth + Firestore) app allowing people to share opinions on whatever question and seek answers
 
 # Features
 - create posts including category, question itself and description
